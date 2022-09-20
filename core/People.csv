@@ -6610,7 +6610,7 @@ gerlajo01,1917,5,11,USA,WI,Shullsburg,1999,8,28,USA,WI,Madison,Johnny,Gerlach,Jo
 germado01,1992,8,4,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Domingo,German,Domingo,181,74,R,R,2017-06-11,2022-09-16,germd001,germado01
 germaes01,1978,1,26,D.R.,San Cristobal,Bajos de Haina,,,,,,,Esteban,German,Esteban,195,69,R,R,2002-05-21,2011-09-27,germe001,germaes01
 germafr01,1980,1,20,D.R.,San Cristobal,San Cristobal,,,,,,,Franklyn,German,Franklyn Miguel,260,79,R,R,2002-09-07,2008-05-20,germf001,germafr01
-germafr02,1997,9,22,USA,NY,Queens,,,,,,,Frank,German,Franklin,195,74,R,R,2022-09-17,2022-09-17,,germafr02
+germafr02,1997,9,22,USA,NY,Queens,,,,,,,Frank,German,Franklin,195,74,R,R,2022-09-17,2022-09-17,germf002,germafr02
 germaju01,1982,8,6,USA,CA,Pasadena,,,,,,,Justin,Germano,Justin William,210,74,R,R,2004-05-22,2014-05-13,germj001,germaju01
 germale01,1869,6,1,USA,MD,Baltimore,1934,6,10,USA,MD,Germantown,Les,German,Lester Stanley,165,68,R,R,1890-08-27,1897-08-06,germl101,germale01
 germego01,1987,9,23,D.R.,La Romana,Guaymate,,,,,,,Gonzalez,Germen,Gonzalez German,200,73,R,R,2013-07-12,2016-08-10,germg001,germego01
@@ -15091,7 +15091,7 @@ quintom01,1981,10,24,USA,TX,El Paso,,,,,,,Omar,Quintanilla,Omar,185,69,L,R,2005-
 quirira01,1969,9,7,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Rafael,Quirico,Rafael Octavio,170,75,L,L,1996-06-25,1996-06-25,quirr001,quirira01
 quirkar01,1937,4,11,USA,RI,Providence,2014,11,22,USA,CT,Stonington,Art,Quirk,Arthur Lincoln,170,71,R,L,1962-04-17,1963-05-22,quira101,quirkar01
 quirkja01,1954,10,22,USA,CA,Whittier,,,,,,,Jamie,Quirk,James Patrick,190,76,L,R,1975-09-04,1992-10-04,quirj001,quirkja01
-quiroes01,1992,2,17,Mexico,Sonora,Ciudad Obregon,,,,,,,Esteban,Quiroz,Jesus Esteban,199,66,L,R,2022-09-17,2022-09-17,,quiroes01
+quiroes01,1992,2,17,Mexico,Sonora,Ciudad Obregon,,,,,,,Esteban,Quiroz,Jesus Esteban,199,66,L,R,2022-09-17,2022-09-17,quire001,quiroes01
 quirogu01,1981,11,29,Venezuela,Zulia,Maracaibo,,,,,,,Guillermo,Quiroz,Guillermo Antonio,215,73,R,R,2004-09-04,2014-09-13,quirg001,quirogu01
 quiseda01,1953,2,7,USA,CA,Santa Monica,1998,9,30,USA,KS,Leawood,Dan,Quisenberry,Dan Raymond,170,74,R,R,1979-07-08,1990-04-23,quisd001,quiseda01
 raabebr01,1967,11,5,USA,MN,New Ulm,,,,,,,Brian,Raabe,Brian Charles,170,69,R,R,1995-09-17,1997-09-28,raabb001,raabebr01
@@ -17562,7 +17562,7 @@ sotoge01,1983,1,20,P.R.,,San Juan,,,,,,,Geovany,Soto,Geovany,225,73,R,R,2005-09-
 sotogi01,1991,5,18,P.R.,,Carolina,,,,,,,Giovanni,Soto,Giovanni Luis,210,74,L,L,2015-09-05,2015-09-27,sotog002,sotogi01
 sotogr01,1995,2,11,D.R.,San Cristobal,Bajos de Haina,,,,,,,Gregory,Soto,Gregory,234,73,L,L,2019-05-11,2022-09-17,sotog003,sotogr01
 sotoju01,1998,10,25,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Juan,Soto,Juan Jose,224,74,L,L,2018-05-20,2022-09-17,sotoj001,sotoju01
-sotoli01,2000,6,22,Venezuela,Carabobo,Valencia,,,,,,,Livan,Soto,Livan Enrique,160,72,L,R,2022-09-17,2022-09-17,,sotoli01
+sotoli01,2000,6,22,Venezuela,Carabobo,Valencia,,,,,,,Livan,Soto,Livan Enrique,160,72,L,R,2022-09-17,2022-09-17,sotol001,sotoli01
 sotoma01,1956,7,12,D.R.,Peravia,Bani,,,,,,,Mario,Soto,Mario Melvin,174,72,R,R,1977-07-21,1988-06-16,sotom001,sotoma01
 sotone01,1989,2,28,P.R.,,Manati,,,,,,,Neftali,Soto,Neftali O.,210,73,R,R,2013-05-18,2014-07-19,soton001,sotone01
 souchst01,1919,3,3,USA,PA,Yatesboro,2002,7,28,USA,MI,Westland,Bud,Souchock,Stephen,203,74,R,R,1946-05-25,1955-04-15,soucb101,souchst01
@@ -19426,7 +19426,7 @@ wallijo01,1952,1,9,USA,IL,East St. Louis,,,,,,,Joe,Wallis,Harold Joseph,180,71,B
 walljo01,1873,7,24,USA,NY,Brooklyn,1936,7,17,USA,NY,Brooklyn,Joe,Wall,Joseph Francis,168,70,L,L,1901-09-22,1902-08-24,wallj105,walljo01
 walljo02,1987,1,21,USA,LA,Baton Rouge,,,,,,,Josh,Wall,Joshua Michael,220,78,R,R,2012-07-22,2014-04-19,wallj002,walljo02
 wallmu01,1926,9,19,USA,TX,Dallas,1971,10,8,USA,TX,Rains County,Murray,Wall,Murray Wesley,185,75,R,R,1950-07-04,1959-07-25,wallm101,wallmu01
-wallnma01,1997,12,12,USA,MN,Forest Lake,,,,,,,Matt,Wallner,Matthew,220,77,L,R,2022-09-17,2022-09-17,,wallnma01
+wallnma01,1997,12,12,USA,MN,Forest Lake,,,,,,,Matt,Wallner,Matthew,220,77,L,R,2022-09-17,2022-09-17,wallm001,wallnma01
 wallsle01,1933,1,6,USA,CA,San Diego,1993,10,11,USA,CA,Los Angeles,Lee,Walls,Ray Lee,205,75,R,R,1952-04-21,1964-10-04,walll101,wallsle01
 wallst01,1951,6,16,USA,MO,Butler,,,,,,,Stan,Wall,Stanley Arthur,175,73,L,L,1975-07-19,1977-07-03,walls101,wallst01
 wallsta01,1996,7,10,USA,GA,Cordele,,,,,,,Taylor,Walls,Davis Taylor,185,70,B,R,2021-05-22,2022-09-17,wallt003,wallsta01
@@ -20525,7 +20525,7 @@ younghe01,1865,11,21,Germany,North Rhine-Westphalia,Dortmund,1936,1,23,USA,PA,Pi
 younghe02,1886,4,14,USA,MA,Boston,1966,12,12,USA,MA,Ipswich,Herman,Young,Herman John,155,68,R,R,1911-06-11,1911-06-23,younh101,younghe02
 youngir01,1877,7,21,USA,ME,Columbia Falls,1935,1,14,USA,ME,Brewer,Irv,Young,Irving Melrose,170,70,L,L,1905-04-14,1911-08-25,youni101,youngir01
 youngja01,1979,9,28,USA,CA,Oakland,,,,,,,Jason,Young,Jason Kariya,215,77,R,R,2003-05-12,2004-05-21,younj002,youngja01
-youngja02,1995,7,9,CAN,BC,Prince George,,,,,,,Jared,Young,Jared M.,185,74,L,R,2022-09-16,2022-09-17,,youngja02
+youngja02,1995,7,9,CAN,BC,Prince George,,,,,,,Jared,Young,Jared M.,185,74,L,R,2022-09-16,2022-09-17,younj003,youngja02
 youngjb01,1857,6,10,USA,PA,Pottsville,1938,4,6,USA,PA,Shamokin,J. B.,Young,Joseph Bartholomew,,,,R,1892-06-10,1892-06-10,younj102,youngj.01
 youngjo01,1949,2,9,USA,CA,Los Angeles,2016,5,8,USA,CA,Los Angeles,John,Young,John Thomas,210,75,L,L,1971-09-09,1971-09-25,younj101,youngjo01
 youngjo02,1951,8,28,USA,TX,Houston,,,,,,,Joel,Youngblood,Joel Randolph,180,72,R,R,1976-04-13,1989-09-27,younj001,youngjo02
