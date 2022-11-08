@@ -91,7 +91,7 @@ adamsjo02,1971,7,2,USA,CA,Lakewood,,,,,,,Joel,Adamson,Joel Lee,185,76,L,L,1996-0
 adamska01,1891,8,11,USA,GA,Columbus,1967,9,17,USA,WA,Everett,Karl,Adams,Karl Tutwiler,170,74,R,R,1914-04-19,1915-09-23,adamk101,adamska01
 adamsla01,1989,11,13,USA,OK,Talihina,,,,,,,Lane,Adams,Lane Weston,190,76,R,R,2014-09-01,2018-09-30,adaml001,adamsla01
 adamsma01,1988,8,31,USA,PA,Philipsburg,,,,,,,Matt,Adams,Matthew James,245,75,L,R,2012-05-20,2021-07-24,adamm002,adamsma01
-adamsmi01,1947,9,13,USA,CA,San Diego,,,,,,,Mike,Adamson,John Michael,185,74,R,R,1967-07-01,1969-05-07,adamm101,adamsmi01
+adamsmi01,1947,9,13,USA,CA,San Diego,2022,5,7,USA,CO,Monument,Mike,Adamson,John Michael,185,74,R,R,1967-07-01,1969-05-07,adamm101,adamsmi01
 adamsmi02,1948,7,24,USA,OH,Cincinnati,,,,,,,Mike,Adams,Robert Michael,180,69,R,R,1972-09-10,1978-07-25,adamm102,adamsmi02
 adamsmi03,1978,7,29,USA,TX,Corpus Christi,,,,,,,Mike,Adams,Jon Michael,210,77,R,R,2004-05-18,2014-09-18,adamm001,adamsmi03
 adamsre01,1921,10,7,USA,CA,Parlier,2017,1,18,USA,CA,Fresno,Red,Adams,Charles Dwight,185,72,R,R,1946-05-05,1946-07-02,adamr101,adamsre01
@@ -139,7 +139,7 @@ aguilch01,1979,2,23,USA,CA,Redwood City,,,,,,,Chris,Aguila,Christopher Louis,200
 aguilje01,1990,6,30,Venezuela,Aragua,Maracay,,,,,,,Jesus,Aguilar,Jesus Alexander,277,75,R,R,2014-05-15,2022-10-05,aguij001,aguilje01
 aguilmi01,1991,9,26,Mexico,Sonora,Ciudad Obregon,,,,,,,Miguel,Aguilar,Miguel Armando,194,68,L,L,2021-07-30,2021-09-12,aguim001,aguilmi01
 aguilri01,1961,12,31,USA,CA,San Gabriel,,,,,,,Rick,Aguilera,Richard Warren,195,76,R,R,1985-06-12,2000-09-06,aguir001,aguilri01
-aguilry01,1994,9,11,USA,CA,Yorba Linda,,,,,,,Ryan,Aguilar,Ryan,168,74,L,L,2022-08-26,2022-09-05,aguir002,aguilry01
+aguilry01,1994,9,11,USA,CA,Yorba Linda,,,,,,,Ryan,Aguilar,Ryan Scott,168,74,L,L,2022-08-26,2022-09-05,aguir002,aguilry01
 aguirha01,1931,1,31,USA,CA,Azusa,1994,9,5,USA,MI,Bloomfield Hills,Hank,Aguirre,Henry John,205,76,R,L,1955-09-10,1970-06-24,aguih101,aguirha01
 ahearch01,1858,,,USA,NY,Troy,1919,4,28,USA,NY,Troy,Bill,Ahearn,William H.,,,,,1880-06-19,1880-06-19,aheac101,ahearch01
 ahearpa01,1969,12,10,USA,CA,San Francisco,,,,,,,Pat,Ahearne,Patrick Howard,195,75,R,R,1995-06-14,1995-06-30,aheap001,ahearpa01
@@ -663,7 +663,7 @@ baderha01,1994,6,3,USA,NY,Bronxville,,,,,,,Harrison,Bader,Harrison Joseph,210,72
 baderlo01,1888,4,27,USA,IL,Bader,1973,6,2,USA,KS,Le Roy,King,Bader,Lore Verne,175,72,L,R,1912-09-30,1918-07-18,badek101,baderlo01
 badgrre01,1902,12,1,USA,WA,Orillia,1998,7,13,USA,WA,Kent,Red,Badgro,Morris Hiram,190,72,L,R,1929-06-20,1930-09-18,badgr101,badgrre01
 baeched01,1907,5,15,USA,OK,Paden,1957,8,15,USA,IL,Grafton,Ed,Baecht,Edward Joseph,195,75,R,R,1926-04-24,1937-09-03,baece101,baeched01
-baeji01,1999,7,26,South Korea,,Daegu,,,,,,,Ji Hwan,Bae,Ji Hwan,185,73,L,R,2022-09-23,2022-10-05,bae-j001,baeji01
+baeji01,1999,7,26,South Korea,Daegu,Daegu,,,,,,,Ji Hwan,Bae,Ji Hwan,185,73,L,R,2022-09-23,2022-10-05,bae-j001,baeji01
 baekch01,1980,5,29,South Korea,Busan,Busan,,,,,,,Cha-Seung,Baek,Cha-Seung,190,76,R,R,2004-08-08,2008-09-28,baekc001,baekch01
 baergca01,1968,11,4,P.R.,,Santurce,,,,,,,Carlos,Baerga,Carlos Obed,165,71,B,R,1990-04-14,2005-09-30,baerc001,baergca01
 baezbe01,1977,5,6,D.R.,Monsenor Nouel,Bonao,,,,,,,Benito,Baez,Benito,160,72,L,L,2001-08-25,2001-10-05,baezb001,baezbe01
@@ -1099,7 +1099,7 @@ beardol01,1862,5,2,USA,KY,Lexington,1929,5,28,USA,OH,Cincinnati,Ollie,Beard,Oliv
 beardra01,1929,2,11,USA,OH,Cincinnati,2003,2,10,USA,FL,West Palm Beach,Ralph,Beard,Ralph William,200,77,R,R,1954-06-29,1954-09-09,bearr101,beardra01
 beardte01,1921,1,7,USA,MD,Woodsboro,2011,12,30,USA,IN,Fishers,Ted,Beard,Cramer Theodore,165,68,L,L,1948-09-05,1958-05-13,beart101,beardte01
 bearega01,1952,8,22,USA,CA,San Diego,,,,,,,Gary,Beare,Gary Ray,205,76,R,R,1976-09-07,1977-10-01,bearg101,bearega01
-bearnla01,1941,9,11,USA,NY,New York,1999,12,31,USA,FL,Seminole,Larry,Bearnarth,Lawrence Donald,203,74,R,R,1963-04-16,1971-05-30,bearl101,bearnla01
+bearnla01,1940,9,11,USA,NY,New York,2000,1,1,USA,FL,Seminole,Larry,Bearnarth,Lawrence Donald,203,74,R,R,1963-04-16,1971-05-30,bearl101,bearnla01
 bearske01,1965,11,7,USA,NJ,Jersey City,,,,,,,Kevin,Bearse,Kevin Gerard,195,74,L,L,1990-04-15,1990-04-30,beark001,bearske01
 beaslch01,1962,6,23,USA,TN,Jackson,,,,,,,Chris,Beasley,Christopher Charles,190,74,R,R,1991-07-20,1991-09-29,beasc001,beaslch01
 beaslje01,1995,11,20,USA,GA,Lyons,,,,,,,Jeremy,Beasley,Jeremy Lonnie,235,74,R,R,2020-08-11,2022-07-27,beasj001,beaslje01
@@ -1341,7 +1341,7 @@ berkena01,1832,9,17,USA,PA,Philadelphia,1900,2,23,USA,PA,Philadelphia,Nate,Berke
 berkmla01,1976,2,10,USA,TX,Waco,,,,,,,Lance,Berkman,William Lance,220,73,B,L,1999-07-16,2013-09-17,berkl001,berkmla01
 berlyja01,1903,5,24,USA,LA,Natchitoches,1977,6,26,USA,TX,Houston,Jack,Berly,John Chambers,190,71,R,R,1924-04-22,1933-09-24,berlj101,berlyja01
 bermabo01,1899,1,24,USA,NY,New York,1988,8,2,USA,CT,Bridgeport,Bob,Berman,Robert Leon,147,68,R,R,1918-06-04,1918-06-12,bermb101,bermabo01
-bernabr01,1992,1,15,USA,CA,Valencia,,,,,,,Brennan,Bernardino,Brennan,180,76,L,L,2022-07-31,2022-08-06,bernb001,bernabr01
+bernabr01,1992,1,15,USA,CA,Valencia,,,,,,,Brennan,Bernardino,Brennan Allen,180,76,L,L,2022-07-31,2022-08-06,bernb001,bernabr01
 bernacu01,1878,2,18,USA,WV,Parkersburg,1955,4,10,USA,CA,Culver City,Curt,Bernard,Curtis Henry,150,70,L,R,1900-09-17,1901-06-24,bernc101,bernacu01
 bernadw01,1952,5,31,USA,IL,Mount Vernon,,,,,,,Dwight,Bernard,Dwight Vern,170,74,R,R,1978-06-29,1982-10-02,bernd101,bernadw01
 bernajo01,1882,3,24,USA,IL,Brighton,1960,9,22,USA,IL,Springfield,Joe,Bernard,Joseph Carl,175,73,R,R,1909-09-23,1909-09-23,bernj102,bernajo01
@@ -1553,7 +1553,7 @@ blaloha01,1980,11,21,USA,CA,San Diego,,,,,,,Hank,Blalock,Hank Joe,192,73,L,R,200
 blancal01,1909,9,21,USA,MA,Somerville,1997,4,2,USA,MA,Melrose,Al,Blanche,Prosper Albert,178,72,R,R,1935-08-23,1936-06-19,blana101,blancal01
 blancan01,1984,4,11,Venezuela,Carabobo,Urama,,,,,,,Andres,Blanco,Andres Eloy,192,70,B,R,2004-04-17,2017-09-12,blana001,blancan01
 blancda01,1941,12,11,Venezuela,Miranda,Curiepe,,,,,,,Damaso,Blanco,Damaso,165,70,R,R,1972-05-26,1974-06-02,bland101,blancda01
-blancda02,1993,4,26,Cuba,,Florida,,,,,,,Dairon,Blanco,Dairon,170,72,R,R,2022-05-20,2022-05-28,bland001,blancda02
+blancda02,1993,4,26,Cuba,Camaguey,Florida,,,,,,,Dairon,Blanco,Dairon,170,72,R,R,2022-05-20,2022-05-28,bland001,blancda02
 blancgi01,1945,12,15,USA,AZ,Phoenix,,,,,,,Gil,Blanco,Gilbert Henry,205,77,L,L,1965-04-24,1966-09-22,blang101,blancgi01
 blancgr01,1983,12,24,Venezuela,Distrito Federal,Caracas,,,,,,,Gregor,Blanco,Gregor Miguel,187,70,L,L,2008-03-30,2018-09-30,blang001,blancgr01
 blanche01,1971,8,29,Venezuela,Distrito Federal,Caracas,,,,,,,Henry,Blanco,Henry Ramon,220,71,R,R,1997-07-25,2013-09-23,blanh001,blanche01
@@ -1661,7 +1661,7 @@ bogente01,1955,9,28,USA,MO,Hannibal,,,,,,,Terry,Bogener,Terry Wayne,193,72,L,L,1
 boggsbr01,1983,1,9,USA,MO,St. Louis,,,,,,,Brandon,Boggs,Brandon Kyle,210,72,B,R,2008-04-29,2011-05-24,boggb001,boggsbr01
 boggsmi01,1984,2,15,USA,GA,Dalton,,,,,,,Mitchell,Boggs,Mitchell Thomas,235,76,R,R,2008-06-06,2013-09-27,boggm001,boggsmi01
 boggsra01,1904,12,12,USA,KS,Reamsville,1989,11,27,USA,CO,Grand Junction,Ray,Boggs,Raymond Joseph,170,72,L,L,1928-09-01,1928-09-17,boggr101,boggsra01
-boggsto01,1955,10,25,USA,NY,Poughkeepsie,2022,10,5,,,,Tommy,Boggs,Thomas Winton,195,74,R,R,1976-07-19,1985-05-07,boggt001,boggsto01
+boggsto01,1955,10,25,USA,NY,Poughkeepsie,2022,10,5,USA,TX,Salado,Tommy,Boggs,Thomas Winton,195,74,R,R,1976-07-19,1985-05-07,boggt001,boggsto01
 boggswa01,1958,6,15,USA,NE,Omaha,,,,,,,Wade,Boggs,Wade Anthony,190,74,L,R,1982-04-10,1999-08-27,boggw001,boggswa01
 boglewa01,1946,10,19,USA,NJ,Passaic,,,,,,,Warren,Bogle,Warren Frederick,220,76,L,L,1968-07-31,1968-09-15,boglw101,boglewa01
 bogusbr01,1984,2,18,USA,IL,Oak Lawn,,,,,,,Brian,Bogusevic,Brian Thomas,215,75,L,L,2010-09-01,2015-10-03,bogub001,bogusbr01
@@ -2020,7 +2020,7 @@ brennji01,1863,9,15,USA,MO,St. Louis,1914,3,24,USA,MO,Koch,Jack,Brennan,Jack,155
 brennji02,1941,2,13,USA,CA,San Diego,1994,3,10,USA,MS,Pearl,Jim,Brenneman,James Leroy,180,74,R,R,1965-07-09,1965-07-23,brenj101,brennji02
 brennto01,1952,10,30,USA,IL,Chicago,,,,,,,Tom,Brennan,Thomas Martin,180,73,R,R,1981-09-05,1985-05-27,brent001,brennto01
 brennwi01,1963,1,15,USA,FL,Tampa,,,,,,,William,Brennan,William Raymond,200,75,R,R,1988-07-19,1993-10-02,brenw001,brennwi01
-brennwi02,1998,2,2,USA,CO,Colorado Springs,,,,,,,Will,Brennan,William Daniel,200,71,L,L,2022-09-21,2022-10-05,brenw002,brennwi02
+brennwi02,1998,2,2,USA,CO,Colorado Springs,,,,,,,Will,Brennan,William Daniel,200,72,L,L,2022-09-21,2022-10-05,brenw002,brennwi02
 brentbr01,1988,12,30,USA,TN,Crossville,,,,,,,Bryce,Brentz,Bryce Everett,215,72,R,R,2014-09-17,2016-08-10,brenb002,brentbr01
 brentja01,1994,9,14,USA,MO,Ballwin,,,,,,,Jake,Brentz,Jacob Steven,205,73,L,L,2021-04-03,2022-04-29,brenj001,brentja01
 brently01,1889,10,7,USA,IL,Peoria,1968,10,14,USA,CA,Los Angeles,Lynn,Brenton,Lynn Davis,165,70,R,R,1913-08-10,1921-07-04,brenl101,brently01
@@ -3536,7 +3536,7 @@ collibi02,1882,3,27,USA,IN,Chesterton,1961,6,26,USA,CA,San Bernardino,Bill,Colli
 collich01,1857,10,12,CAN,ON,Dundas,1914,5,20,CAN,ON,Dundas,Chub,Collins,Charles Augustine,165,71,B,R,1884-05-01,1885-07-11,collc101,collich01
 collida01,1853,9,27,USA,LA,New Orleans,1883,9,21,USA,LA,New Orleans,Dan,Collins,Daniel Thomas,,,,,1874-06-08,1876-08-19,colld102,collida01
 collida02,1952,10,20,USA,SD,Rapid City,,,,,,,Dave,Collins,David S.,175,71,B,L,1975-06-07,1990-10-03,colld001,collida02
-collido01,1952,9,15,USA,GA,Lyons,2022,5,22,,,,Don,Collins,Donald Edward,195,74,R,L,1977-05-04,1980-07-04,colld101,collido01
+collido01,1952,9,15,USA,GA,Lyons,2022,5,22,USA,GA,Sharpsburg,Don,Collins,Donald Edward,195,74,R,L,1977-05-04,1980-07-04,colld101,collido01
 collied01,1887,5,2,USA,NY,Millerton,1951,3,25,USA,MA,Boston,Eddie,Collins,Edward Trowbridge,175,69,L,R,1906-09-17,1930-08-05,colle101,collied01
 collied02,1916,11,23,USA,PA,Lansdowne,2000,11,2,USA,PA,Jennersville,Eddie,Collins,Edward Trowbridge,175,70,L,R,1939-07-04,1942-05-26,colle102,collied02
 colliha01,1869,3,11,USA,MD,Petersville,1961,8,14,USA,DC,Washington,Harry,Colliflower,James Harry,175,71,L,L,1899-07-21,1899-10-12,collh101,colliha01
@@ -5353,7 +5353,7 @@ ellisro02,1970,12,15,USA,LA,Baton Rouge,,,,,,,Robert,Ellis,Robert Randolph,220,7
 ellisru01,1885,11,17,USA,CA,Downey,1938,3,13,USA,CA,Pico Rivera,Rube,Ellis,George William,170,72,L,L,1909-04-15,1912-10-06,ellir102,ellisru01
 ellissa01,1941,2,11,USA,OH,Youngstown,2016,5,13,USA,FL,Temple Terrace,Sammy,Ellis,Samuel Joseph,175,73,L,R,1962-04-14,1969-06-08,ellis101,ellissa01
 ellsbja01,1983,9,11,USA,OR,Madras,,,,,,,Jacoby,Ellsbury,Jacoby McCabe,195,73,L,L,2007-06-30,2017-09-30,ellsj001,ellsbja01
-ellswdi01,1940,3,22,USA,WY,Lusk,2022,10,10,,,,Dick,Ellsworth,Richard Clark,180,75,L,L,1958-06-22,1971-06-23,ellsd101,ellswdi01
+ellswdi01,1940,3,22,USA,WY,Lusk,2022,10,10,USA,CA,Fresno,Dick,Ellsworth,Richard Clark,180,75,L,L,1958-06-22,1971-06-23,ellsd101,ellswdi01
 ellswst01,1960,7,30,USA,IL,Chicago,,,,,,,Steve,Ellsworth,Steven Clark,220,80,R,R,1988-04-07,1988-07-08,ellss001,ellswst01
 elmorja01,1987,6,15,USA,AL,Dothan,,,,,,,Jake,Elmore,Jacob David,180,70,R,R,2012-08-11,2019-09-29,elmoj001,elmorja01
 elmorve01,1899,12,10,USA,AL,Gordo,1969,8,5,USA,AL,Birmingham,Verdo,Elmore,Verdo Wilson,185,71,L,R,1924-09-11,1924-09-24,elmov101,elmorve01
@@ -7553,7 +7553,7 @@ hambuma01,1987,2,5,USA,MN,St. Paul,,,,,,,Mark,Hamburger,Mark John,200,76,R,R,201
 hambyji01,1897,7,29,USA,NC,Wilkesboro,1991,10,21,USA,IL,Springfield,Jim,Hamby,James Sanford,170,72,R,R,1926-09-20,1927-05-27,hambj101,hambyji01
 hamelbo01,1967,11,29,USA,NJ,Elizabeth,,,,,,,Bob,Hamelin,Robert James,240,73,L,L,1993-09-12,1998-09-27,hameb001,hamelbo01
 hamelco01,1983,12,27,USA,CA,San Diego,,,,,,,Cole,Hamels,Colbert Michael,205,76,L,L,2006-05-12,2020-09-16,hamec001,hamelco01
-hamilbi01,1866,2,15,USA,NJ,Newark,1940,12,15,USA,MA,Worcester,Billy,Hamilton,William Robert,165,66,L,R,1888-07-31,1901-09-16,hamib101,hamilbi01
+hamilbi01,1866,2,15,USA,NJ,Newark,1940,12,15,USA,MA,Worcester,Billy,Hamilton,William Robert,165,66,L,L,1888-07-31,1901-09-16,hamib101,hamilbi01
 hamilbi02,1990,9,9,USA,MS,Taylorsville,,,,,,,Billy,Hamilton,Billy R.,160,72,B,R,2013-09-03,2022-10-04,hamib001,hamilbi02
 hamilca01,1995,2,5,USA,WA,Woodinville,,,,,,,Caleb,Hamilton,Caleb,185,72,R,R,2022-07-17,2022-10-05,hamic001,hamilca01
 hamilda01,1947,12,13,USA,WA,Seattle,,,,,,,Dave,Hamilton,David Edward,180,72,L,L,1972-05-29,1980-09-19,hamid101,hamilda01
@@ -8202,7 +8202,7 @@ herrejo02,1972,8,30,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Jose,Herrera,Jose
 herrejo03,1984,11,3,Venezuela,Zulia,Maracaibo,,,,,,,Jonathan,Herrera,Jonathan Alejandro,180,69,B,R,2008-04-30,2015-09-09,herrj002,herrejo03
 herrejo04,1997,2,24,Venezuela,Cojedes,San Carlos,,,,,,,Jose,Herrera,Jose Gregorio,217,70,B,R,2022-04-09,2022-08-07,herrj003,herrejo04
 herreke01,1989,12,31,D.R.,Hermanas Mirabal,Tenares,,,,,,,Kelvin,Herrera,Kelvin De Jesus,220,70,R,R,2011-09-21,2020-07-26,herrk001,herreke01
-herremi01,1897,12,19,Cuba,La Habana,La Habana,1978,2,3,Cuba,La Habana,La Habana,Mike,Herrera,Ramon,147,66,R,R,1925-09-22,1926-09-22,herrm101,herremi01
+herremi01,1892,12,19,Cuba,La Habana,La Habana,1978,2,3,Cuba,La Habana,La Habana,Mike,Herrera,Ramon,147,66,R,R,1925-09-22,1926-09-22,herrm101,herremi01
 herreod01,1991,12,29,Venezuela,Anzoategui,San Jose,,,,,,,Odubel,Herrera,David Odubel,200,71,L,R,2015-04-06,2022-07-31,herro001,herreod01
 herrepa01,1934,6,16,Cuba,La Habana,Santiago de las Vegas,2005,4,28,USA,FL,Miami,Pancho,Herrera,Juan Francisco,220,75,R,R,1958-04-15,1961-10-01,herrp101,herrepa01
 herrero01,1995,5,3,Venezuela,Aragua,Maracay,,,,,,,Ronald,Herrera,Ronald Jose,185,71,R,R,2017-06-14,2017-06-29,herrr001,herrero01
@@ -12442,7 +12442,7 @@ merceor01,1966,11,2,P.R.,,Hato Rey,,,,,,,Orlando,Merced,Orlando Luis,180,72,B,R,
 mercewi01,1874,6,20,USA,WV,Chester,1903,1,12,USA,CA,San Francisco,Win,Mercer,George Barclay,154,69,L,R,1894-04-21,1902-09-27,mercw101,mercewi01
 merceye01,1993,2,14,D.R.,La Romana,La Romana,,,,,,,Yermin,Mercedes,Yermin Francisco,245,71,R,R,2020-08-02,2022-08-30,mercy001,merceye01
 merchan01,1950,8,30,USA,AL,Mobile,,,,,,,Andy,Merchant,James Anderson,185,71,L,R,1975-09-28,1976-06-10,merca101,merchan01
-merckke01,1968,2,1,USA,OH,Dublin,,,,,,,Kent,Mercker,Kent Franklin,175,73,L,L,1989-09-22,2008-05-30,merck001,merckke01
+merckke01,1968,2,1,USA,IN,Brownsburg,,,,,,,Kent,Mercker,Kent Franklin,175,73,L,L,1989-09-22,2008-05-30,merck001,merckke01
 meredcl01,1983,6,4,USA,VA,Richmond,,,,,,,Cla,Meredith,Olise Cla,180,72,R,R,2005-05-08,2010-05-27,merec001,meredcl01
 merensp01,1909,11,18,USA,NJ,Paterson,1977,3,9,USA,CT,Bridgeport,Spike,Merena,John Joseph,185,72,L,L,1934-09-16,1934-09-30,meres101,merensp01
 merewar01,1902,7,7,USA,RI,East Providence,1997,2,2,USA,NY,Bayside,Art,Merewether,Arthur Francis,155,69,R,R,1922-07-10,1922-07-10,merea101,merewar01
@@ -12507,7 +12507,7 @@ meyerdr01,1981,8,29,USA,SC,Charleston,,,,,,,Drew,Meyer,Drew Edward,200,70,L,R,20
 meyerdu01,1915,10,6,USA,TX,Waco,2003,1,19,USA,TX,Fort Worth,Dutch,Meyer,Lambert Daniel,181,70,R,R,1937-06-23,1946-09-22,meyed101,meyerdu01
 meyerge01,1909,8,3,USA,IL,Chicago,1992,1,3,USA,IL,Hoffman Estates,George,Meyer,George Francis,160,69,R,R,1938-09-03,1938-10-02,meyeg101,meyerge01
 meyerhe01,1865,2,14,USA,PA,Philadelphia,1943,11,12,USA,PA,Philadelphia,George,Meyers,John George,,,,,1890-08-30,1890-10-04,meyeh101,meyerhe01
-meyerja01,1932,3,23,USA,PA,Philadelphia,1967,3,6,USA,PA,Philadelphia,Jack,Meyer,John Robert,175,73,R,R,1955-04-16,1961-04-30,meyej101,meyerja01
+meyerja01,1932,3,23,USA,PA,Philadelphia,1967,3,9,USA,PA,Philadelphia,Jack,Meyer,John Robert,175,73,R,R,1955-04-16,1961-04-30,meyej101,meyerja01
 meyerja02,1996,6,18,USA,NE,Omaha,,,,,,,Jake,Meyers,Jacob Berkshire,200,72,R,L,2021-08-01,2022-10-05,meyej002,meyerja02
 meyerjo01,1962,5,10,USA,HI,Honolulu,,,,,,,Joey,Meyer,Tanner Joe,260,75,R,R,1988-04-04,1989-09-30,meyej001,meyerjo01
 meyerle01,1849,7,,USA,PA,Philadelphia,1921,11,4,USA,PA,Philadelphia,Levi,Meyerle,Levi Samuel,177,73,R,R,1871-05-20,1884-04-26,meyel102,meyerle01
@@ -13417,7 +13417,7 @@ nehfar01,1892,7,31,USA,IN,Terre Haute,1960,12,18,USA,AZ,Phoenix,Art,Nehf,Arthur 
 neibaga01,1944,10,29,USA,MT,Billings,,,,,,,Gary,Neibauer,Gary Wayne,200,75,R,R,1969-04-12,1973-09-30,neibg101,neibaga01
 neideni01,1996,11,20,USA,GA,Atlanta,,,,,,,Nick,Neidert,Nicholas William,202,73,R,R,2020-07-25,2022-07-30,neidn001,neideni01
 neidlji01,1964,9,24,USA,CA,Vallejo,,,,,,,Jim,Neidlinger,James Llewellyn,180,76,B,R,1990-08-01,1990-09-29,neidj001,neidlji01
-neigeal01,1939,3,26,USA,DE,Wilmington,2022,10,3,,,,Al,Neiger,Alvin Edward,195,72,L,L,1960-07-30,1960-09-28,neiga101,neigeal01
+neigeal01,1939,3,26,USA,DE,Wilmington,2022,10,3,USA,DE,Wilmington,Al,Neiger,Alvin Edward,195,72,L,L,1960-07-30,1960-09-28,neiga101,neigeal01
 neighbo01,1917,11,9,USA,OK,Talihina,1952,8,8,North Korea,,,Bob,Neighbors,Robert Otis,165,71,R,R,1939-09-16,1939-09-30,neigb101,neighbo01
 neighcy01,1880,9,23,USA,MO,Fayetteville,1964,5,20,USA,WA,Tacoma,Cy,Neighbors,Cecil Fleming,178,70,R,,1908-04-29,1908-04-29,neigc101,neighcy01
 neillmi01,1970,4,27,USA,VA,Martinsville,,,,,,,Mike,Neill,Michael Robert,190,74,L,L,1998-07-27,1998-08-01,neilm001,neillmi01
@@ -13825,7 +13825,7 @@ oleartr01,1969,8,4,USA,CA,Compton,,,,,,,Troy,O'Leary,Troy Franklin,175,72,L,L,19
 olerujo01,1968,8,5,USA,WA,Seattle,,,,,,,John,Olerud,John Garrett,205,77,L,L,1989-09-03,2005-10-02,olerj001,olerujo01
 olinfr01,1860,1,9,USA,VT,Woodford,1951,5,20,USA,MO,St. Louis,Frank,Olin,Franklin Walter,,,L,,1884-07-04,1885-06-10,olinf101,olinfr01
 olinst01,1965,10,4,USA,OR,Portland,1993,3,22,USA,FL,Little Lake Nellie,Steve,Olin,Steven Robert,185,75,R,R,1989-07-29,1992-10-04,olins001,olinst01
-olivaed01,1938,11,5,P.R.,,Mayaguez,,,,,,,Ed,Olivares,Edward,180,71,R,R,1960-09-16,1961-09-26,olive101,olivaed01
+olivaed01,1937,11,5,USA,NY,Brooklyn,2022,10,14,P.R.,,Mayaguez,Ed,Olivares,Edward,180,71,R,R,1960-09-16,1961-09-26,olive101,olivaed01
 olivaed02,1996,3,6,Venezuela,Distrito Federal,Caracas,,,,,,,Edward,Olivares,Edward Daniel,190,74,R,R,2020-07-25,2022-10-05,olive001,olivaed02
 olivaja01,1995,11,27,USA,CA,Santa Clarita,,,,,,,Jared,Oliva,Jared Cole,200,74,R,R,2020-09-21,2021-07-30,olivj003,olivaja01
 olivajo01,1971,3,3,D.R.,San Pedro de Macoris,San Pedro de Macoris,1997,12,22,D.R.,San Cristobal,San Cristobal,Jose,Oliva,Jose,215,75,R,R,1994-07-01,1995-10-01,olivj002,olivajo01
@@ -16483,7 +16483,7 @@ saverbo01,1941,6,2,USA,CT,Norwalk,,,,,,,Bob,Saverine,Robert Paul,160,70,B,R,1959
 saverjo01,1985,11,4,USA,TX,Houston,,,,,,,Joe,Savery,Joseph Cain,235,75,L,L,2011-09-20,2014-05-18,savej001,saverjo01
 saviddo01,1908,8,28,USA,PA,Berwick,1983,3,22,USA,CA,Santa Barbara,Don,Savidge,Donald Snyder,180,73,R,R,1929-08-06,1929-08-31,savid101,saviddo01
 savidra01,1879,2,3,USA,PA,Jerseytown,1959,7,22,USA,PA,Berwick,Ralph,Savidge,Ralph Austin,210,74,R,R,1908-09-22,1909-05-19,savir101,savidra01
-savramo01,1929,1,13,USA,OH,Cleveland,,,,,,,Moe,Savransky,Morris,175,71,L,L,1954-04-23,1954-09-05,savrm101,savramo01
+savramo01,1929,1,13,USA,OH,Cleveland,2022,10,13,USA,GA,Alpharetta,Moe,Savransky,Morris,175,71,L,L,1954-04-23,1954-09-05,savrm101,savramo01
 sawamhi01,1988,4,3,Japan,Tochigi,Tochigi,,,,,,,Hirokazu,Sawamura,Hirokazu,212,72,R,R,2021-04-02,2022-08-28,sawah001,sawamhi01
 sawatca01,1927,11,4,USA,PA,Shickshinny,1991,11,24,USA,AR,Little Rock,Carl,Sawatski,Carl Ernest,210,70,L,R,1948-09-29,1963-09-29,sawac101,sawatca01
 sawyeca01,1890,10,19,USA,WA,Seattle,1957,1,17,USA,CA,Los Angeles,Carl,Sawyer,Carl Everett,160,71,R,R,1915-09-11,1916-10-04,sawyc101,sawyeca01
@@ -18999,7 +18999,7 @@ uptonto01,1926,12,29,USA,MO,Esther,2008,3,24,USA,CA,Downey,Tom,Upton,Thomas Herb
 urbanbi01,1903,6,5,USA,NY,Linoleumville,1973,7,12,USA,NJ,Perth Amboy,Billy,Urbanski,William Michael,165,68,R,R,1931-07-04,1937-04-23,urbab101,urbanbi01
 urbanja01,1928,12,5,USA,NE,Omaha,2006,6,26,USA,NE,Omaha,Jack,Urban,Jack Elmer,155,68,R,R,1957-06-13,1959-08-06,urbaj101,urbanja01
 urbanlu01,1887,3,22,USA,MA,Fall River,1980,12,7,USA,MA,Somerset,Luke,Urban,Louis John,168,68,R,R,1927-07-19,1928-06-21,urbal101,urbanlu01
-urbanto01,1968,1,21,USA,CA,Santa Cruz,2022,9,28,USA,CA,,Tom,Urbani,Thomas James,190,73,L,L,1993-04-21,1996-08-04,urbat001,urbanto01
+urbanto01,1968,1,21,USA,CA,Santa Cruz,2022,9,28,USA,CA,Santa Cruz,Tom,Urbani,Thomas James,190,73,L,L,1993-04-21,1996-08-04,urbat001,urbanto01
 urbinug01,1974,2,15,Venezuela,Distrito Federal,Caracas,,,,,,,Ugueth,Urbina,Ugueth Urtain,185,74,R,R,1995-05-09,2005-10-02,urbiu001,urbinug01
 urdanli01,1979,11,20,Venezuela,Distrito Federal,Caracas,,,,,,,Lino,Urdaneta,Lino,220,73,R,R,2004-09-09,2007-05-07,urdal001,urdanli01
 urenajo01,1991,9,12,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Jose,Urena,Jose Miguel,208,74,R,R,2015-04-14,2022-10-03,urenj001,urenajo01
@@ -19455,7 +19455,7 @@ walshco01,1882,4,23,USA,MO,St. Louis,1953,4,5,USA,MO,St. Louis,Connie,Walsh,Corn
 walshco02,1989,9,26,USA,CA,San Diego,,,,,,,Colin,Walsh,Colin Patrick,200,73,B,R,2016-04-04,2016-05-25,walsc001,walshco02
 walshda01,1960,9,25,USA,MA,Arlington,,,,,,,Dave,Walsh,David Peter,185,73,L,L,1990-08-13,1990-10-02,walsd001,walshda01
 walshde01,1890,3,28,USA,MO,St. Louis,1971,7,14,USA,MO,St. Louis,Dee,Walsh,Leo Thomas,165,69,B,R,1913-04-10,1915-08-24,walsd101,walshde01
-walshed01,1881,5,14,USA,PA,Plains,1959,5,26,USA,FL,Pompano Beach,Ed,Walsh,Edward Augustine,193,73,R,R,1904-05-07,1917-09-11,walse101,walshed01
+walshed01,1881,5,19,USA,PA,Plains,1959,5,26,USA,FL,Pompano Beach,Ed,Walsh,Edward Augustine,193,73,R,R,1904-05-07,1917-09-11,walse101,walshed01
 walshed02,1905,2,11,USA,CT,Meriden,1937,10,31,USA,CT,Meriden,Ed,Walsh,Edward Arthur,180,73,R,R,1928-07-04,1932-09-25,walse102,walshed02
 walshja01,1993,7,30,USA,WI,Brookfield,,,,,,,Jared,Walsh,Jared James,210,72,L,L,2019-05-15,2022-08-24,walsj001,walshja01
 walshja02,1995,7,20,USA,FL,Indialantic,,,,,,,Jake,Walsh,Jake,192,73,R,R,2022-05-11,2022-05-18,walsj002,walshja02
