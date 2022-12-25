@@ -2251,7 +2251,7 @@ brownto01,1860,9,21,United Kingdom,Merseyside,Liverpool,1927,10,25,USA,DC,Washin
 brownto02,1927,12,6,USA,NY,Brooklyn,,,,,,,Tommy,Brown,Thomas Michael,170,73,R,R,1944-08-03,1953-09-25,browt103,brownto02
 brownto03,1940,12,12,USA,PA,Laureldale,,,,,,,Tom,Brown,Thomas William,190,73,B,L,1963-04-08,1963-09-29,browt101,brownto03
 brownto04,1949,8,10,USA,LA,Lafayette,,,,,,,Tom,Brown,Thomas Dale,170,73,R,R,1978-09-14,1978-10-01,browt104,brownto04
-brownto05,1960,4,28,USA,WY,Casper,,,,,,,Tom,Browning,Thomas Leo,190,73,L,L,1984-09-09,1995-05-19,browt001,brownto05
+brownto05,1960,4,28,USA,WY,Casper,2022,12,19,USA,KY,Union,Tom,Browning,Thomas Leo,190,73,L,L,1984-09-09,1995-05-19,browt001,brownto05
 browntr01,1991,11,15,USA,CA,Newhall,,,,,,,Trevor,Brown,Trevor Michael,193,74,R,R,2015-09-19,2016-09-27,browt002,browntr01
 brownwa01,1915,4,23,USA,NY,Jamestown,1991,2,3,USA,NY,Westfield,Walter,Brown,Walter Irving,175,71,R,R,1947-05-16,1947-09-24,broww103,brownwa01
 brownwi01,1866,,,USA,CA,San Francisco,1897,12,20,USA,CA,San Francisco,William,Brown,William M.,190,74,R,R,1887-05-10,1894-05-20,broww102,brownwi01
@@ -4949,7 +4949,7 @@ doylebr01,1954,1,26,USA,KY,Glasgow,,,,,,,Brian,Doyle,Brian Reed,160,70,L,R,1978-
 doyleca01,1912,7,30,USA,TN,Knoxville,1951,9,4,USA,TN,Knoxville,Carl,Doyle,William Carl,185,73,R,R,1935-08-05,1940-09-26,doylc102,doyleca01
 doyleco01,1862,,,Ireland,,,1931,7,29,USA,TX,El Paso,Conny,Doyle,Cornelius J.,185,70,,R,1883-06-23,1884-09-13,doylc101,doyleco01
 doyleda01,1917,1,24,USA,OK,McLoud,2004,12,14,USA,OK,Stillwater,Danny,Doyle,Howard James,195,73,B,R,1943-09-14,1943-10-03,doyld101,doyleda01
-doylede01,1944,1,17,USA,KY,Glasgow,,,,,,,Denny,Doyle,Robert Dennis,175,69,L,R,1970-04-07,1977-09-30,doyld102,doylede01
+doylede01,1944,1,17,USA,KY,Glasgow,2022,12,20,,,,Denny,Doyle,Robert Dennis,175,69,L,R,1970-04-07,1977-09-30,doyld102,doylede01
 doyleja01,1869,10,25,Ireland,,Killorglin,1958,12,31,USA,MA,Holyoke,Jack,Doyle,John Joseph,155,69,R,R,1889-08-27,1905-07-13,doylj103,doyleja01
 doyleje01,1898,4,14,USA,TN,Knoxville,1961,4,15,USA,IL,Belleville,Jess,Doyle,Jesse Herbert,175,71,R,R,1925-04-14,1931-07-09,doylj105,doyleje01
 doyleje02,1956,10,2,USA,MT,Havre,,,,,,,Jeff,Doyle,Jeffrey Donald,160,69,B,R,1983-09-13,1983-10-02,doylj101,doyleje02
