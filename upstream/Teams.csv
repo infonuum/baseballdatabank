@@ -2994,7 +2994,7 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 2022,AL,CLE,CLE,C,1,81,Y,N,N,N,Cleveland Guardians,Progressive Field,1295870,98,98,CLE,CLE,CLE
 2022,NL,COL,COL,W,5,81,N,N,N,N,Colorado Rockies,Coors Field,2597428,113,115,COL,COL,COL
 2022,AL,DET,DET,C,4,82,N,N,N,N,Detroit Tigers,Comerica Park,1575544,96,97,DET,DET,DET
-2022,AL,HOU,HOU,W,1,81,Y,N,N,N,Houston Astros,Minute Maid Park,2688998,101,99,HOU,HOU,HOU
+2022,AL,HOU,HOU,W,1,81,Y,N,Y,Y,Houston Astros,Minute Maid Park,2688998,101,99,HOU,HOU,HOU
 2022,AL,KCA,KCR,C,5,81,N,N,N,N,Kansas City Royals,Kauffman Stadium,1277686,103,105,KCR,KCA,KCA
 2022,AL,LAA,ANA,W,3,81,N,N,N,N,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,2457461,102,103,LAA,ANA,ANA
 2022,NL,LAN,LAD,W,1,81,Y,N,N,N,Los Angeles Dodgers,Dodger Stadium,3861408,106,103,LAD,LAN,LAN
@@ -3004,7 +3004,7 @@ yearID,lgID,teamID,franchID,divID,Rank,Ghome,DivWin,WCWin,LgWin,WSWin,name,park,
 2022,AL,NYA,NYY,E,1,81,Y,N,N,N,New York Yankees,Yankee Stadium III,3136207,101,100,NYY,NYA,NYA
 2022,NL,NYN,NYM,E,2,81,N,Y,N,N,New York Mets,Citi Field,2564737,96,95,NYM,NYN,NYN
 2022,AL,OAK,OAK,W,5,80,N,N,N,N,Oakland Athletics,O.co Coliseum,787902,96,96,OAK,OAK,OAK
-2022,NL,PHI,PHI,E,3,81,N,Y,N,N,Philadelphia Phillies,Citizens Bank Park,2276736,100,100,PHI,PHI,PHI
+2022,NL,PHI,PHI,E,3,81,N,Y,Y,N,Philadelphia Phillies,Citizens Bank Park,2276736,100,100,PHI,PHI,PHI
 2022,NL,PIT,PIT,C,5,81,N,N,N,N,Pittsburgh Pirates,PNC Park,1257458,100,102,PIT,PIT,PIT
 2022,NL,SDN,SDP,W,2,81,N,Y,N,N,San Diego Padres,Petco Park,2987470,92,92,SDP,SDN,SDN
 2022,AL,SEA,SEA,W,2,81,N,Y,N,N,Seattle Mariners,T-Mobile Park,2287267,95,95,SEA,SEA,SEA
