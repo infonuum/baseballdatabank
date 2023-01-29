@@ -790,7 +790,7 @@ bancrda01,1891,4,20,USA,IA,Sioux City,1972,10,9,USA,WI,Superior,Dave,Bancroft,Da
 bancrfr99,1846,5,9,USA,MA,Lancaster,1921,3,30,USA,OH,Cincinnati,Frank,Bancroft,Frank Carter,,,,,,,bancf801,bancrfr99
 bandaan01,1993,8,10,USA,TX,Corpus Christi,,,,,,,Anthony,Banda,Frank Anthony,220,74,L,L,2017-07-22,2022-09-02,banda001,bandaan01
 bandoch01,1956,2,4,USA,OH,Cleveland,,,,,,,Chris,Bando,Christopher Michael,195,72,B,R,1981-08-13,1989-10-01,bandc001,bandoch01
-bandosa01,1944,2,13,USA,OH,Cleveland,,,,,,,Sal,Bando,Salvatore Leonard,195,72,R,R,1966-09-03,1981-10-03,bands101,bandosa01
+bandosa01,1944,2,13,USA,OH,Cleveland,2023,1,20,USA,WI,Oconomowoc,Sal,Bando,Salvatore Leonard,195,72,R,R,1966-09-03,1981-10-03,bands101,bandosa01
 bandyje01,1990,3,26,USA,CA,West Hills,,,,,,,Jett,Bandy,Jett Adam,235,76,R,R,2015-09-14,2018-05-23,bandj001,bandyje01
 baneed01,1952,3,22,USA,IL,Chicago,,,,,,,Eddie,Bane,Edward Norman,160,69,R,L,1973-07-04,1976-09-12,banee101,baneed01
 baneydi01,1946,11,1,USA,CA,Fullerton,,,,,,,Dick,Baney,Richard Lee,185,72,R,R,1969-07-11,1974-10-02,baned101,baneydi01
@@ -1104,6 +1104,7 @@ bearske01,1965,11,7,USA,NJ,Jersey City,,,,,,,Kevin,Bearse,Kevin Gerard,195,74,L,
 beaslch01,1962,6,23,USA,TN,Jackson,,,,,,,Chris,Beasley,Christopher Charles,190,74,R,R,1991-07-20,1991-09-29,beasc001,beaslch01
 beaslje01,1995,11,20,USA,GA,Lyons,,,,,,,Jeremy,Beasley,Jeremy Lonnie,235,74,R,R,2020-08-11,2022-07-27,beasj001,beaslje01
 beaslle01,1948,8,27,USA,VA,Sparta,,,,,,,Lew,Beasley,Lewis Paige,172,70,L,R,1977-05-21,1977-10-02,beasl101,beaslle01
+beaslto99,1966,12,5,USA,VA,Fredericksburg,,,,,,,Tony,Beasley,Anthony Wayne,165,68,R,R,,,beast801,beaslto99
 beatied01,1866,8,10,USA,MD,Baltimore,1925,5,9,USA,MD,Baltimore,Ed,Beatin,Ebenezer Ambrose,162,69,R,L,1887-08-02,1891-09-14,beate101,beatied01
 beatlda01,1864,1,,USA,NY,New York,1925,9,22,USA,NY,New York,Dave,Beadle,David A.,200,74,L,,1884-06-17,1884-06-17,beatd102,beatlda01
 beatope01,1986,10,27,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Pedro,Beato,Pedro,230,78,R,R,2011-04-01,2017-07-29,beatp001,beatope01
@@ -11505,6 +11506,7 @@ marksma01,1990,8,25,USA,OH,Cincinnati,,,,,,,Matt,Marksberry,Matthew Gates,180,73
 marlodi01,1929,6,27,USA,NC,Hickory,1968,12,30,USA,OH,Toledo,Dick,Marlowe,Richard Burton,165,74,R,R,1951-09-19,1956-09-30,marld101,marlodi01
 marmoca01,1982,10,14,D.R.,Monsenor Nouel,Bonao,,,,,,,Carlos,Marmol,Carlos Agustin,235,73,R,R,2006-06-04,2014-05-10,marmc001,marmoca01
 marmojo01,1993,1,2,USA,NJ,Perth Amboy,,,,,,,Jose,Marmolejos,Jose Ramon,239,74,L,L,2020-07-24,2021-09-12,marmj001,marmojo01
+marmool99,1986,7,2,USA,FL,Orlando,,,,,,,Oliver,Marmol,Oliver Jose,165,70,R,R,,,marmo801,marmool99
 marniha01,1918,7,6,USA,PA,Philadelphia,2002,1,7,USA,PA,Philadelphia,Hal,Marnie,Harry Sylvester,178,73,R,R,1940-09-15,1942-09-25,marnh101,marniha01
 marolfr01,1928,10,6,USA,IL,Chicago,,,,,,,Fred,Marolewski,Fred Daniel,205,74,R,R,1953-09-19,1953-09-19,marof101,marolfr01
 maronlo01,1945,12,3,USA,CA,San Diego,2015,11,27,USA,CA,San Diego,Lou,Marone,Louis Stephen,185,71,R,L,1969-05-30,1970-04-18,marol101,maronlo01
