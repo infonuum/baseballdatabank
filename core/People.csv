@@ -2721,7 +2721,7 @@ campbmi01,1964,2,17,USA,WA,Seattle,,,,,,,Mike,Campbell,Michael Thomas,210,75,R,R
 campbmi02,1850,8,1,Ireland,,,1926,1,12,USA,NJ,Scotch Plains,Michael,Campbell,Michael,,,,,1873-04-28,1873-07-23,campm101,campbma01
 campbpa01,1917,9,1,USA,NC,Paw Creek,2006,6,22,USA,NC,Charlotte,Paul,Campbell,Paul McLaughlin,185,70,L,L,1941-04-15,1950-05-14,campp101,campbpa01
 campbpa02,1995,7,26,USA,MA,Malden,,,,,,,Paul,Campbell,Paul Alan,210,72,L,R,2021-04-03,2021-09-18,campp001,campbpa02
-campbro01,1940,4,5,USA,TN,Chattanooga,,,,,,,Ron,Campbell,Ronald Thomas,180,73,R,R,1964-09-01,1966-09-28,campr101,campbro01
+campbro01,1940,4,5,USA,TN,Chattanooga,2023,2,2,USA,TN,Cleveland,Ron,Campbell,Ronald Thomas,180,73,R,R,1964-09-01,1966-09-28,campr101,campbro01
 campbsa01,,,,USA,PA,Philadelphia,,,,,,,Sam,Campbell,Samuel,,,,,1890-10-11,1890-10-11,camps101,campbsa01
 campbso01,1915,3,7,USA,VA,Sparta,2000,2,16,USA,VA,Sparta,Soup,Campbell,Clarence,188,73,L,R,1940-04-21,1941-09-28,camps104,campbso01
 campbvi01,1888,1,30,USA,MO,St. Louis,1969,11,16,USA,MD,Towson,Vin,Campbell,Arthur Vincent,185,72,L,R,1908-06-06,1915-09-27,campv101,campbvi01
@@ -5310,7 +5310,7 @@ elartsc01,1976,2,23,USA,CO,Lamar,,,,,,,Scott,Elarton,Vincent Scott,240,79,R,R,19
 elberki01,1875,4,13,USA,OH,Pomeroy,1944,1,13,USA,TN,Chattanooga,Kid,Elberfeld,Norman Arthur,158,67,R,R,1898-05-30,1914-09-24,elbek101,elberki01
 elbersc01,1985,8,13,USA,MO,Joplin,,,,,,,Scott,Elbert,Timothy Scott,225,74,L,L,2008-08-29,2014-09-27,elbes001,elbersc01
 elderbr01,1999,5,19,USA,TX,Decatur,,,,,,,Bryce,Elder,Bryce Cason,220,74,R,R,2022-04-12,2022-10-03,eldeb001,elderbr01
-elderda01,1975,9,23,USA,GA,Atlanta,,,,,,,Dave,Elder,David Matthew,180,72,R,R,2002-07-24,2003-05-11,elded001,elderda01
+elderda01,1975,9,23,USA,GA,Atlanta,2023,1,31,,,,Dave,Elder,David Matthew,180,72,R,R,2002-07-24,2003-05-11,elded001,elderda01
 elderge01,1921,3,10,USA,KY,Lebanon,2022,7,7,USA,CO,Fruita,George,Elder,George Rezin,180,71,L,R,1949-07-22,1949-09-25,eldeg101,elderge01
 elderhe01,1890,8,23,USA,WA,Seattle,1958,11,13,USA,CA,Long Beach,Henry,Elder,Henry Knox,200,74,L,L,1913-07-07,1913-07-07,eldeh101,elderhe01
 eldrebr01,1980,7,12,USA,FL,Fort Lauderdale,,,,,,,Brad,Eldred,Bradley Ross,270,78,R,R,2005-07-22,2012-05-02,eldrb001,eldrebr01
@@ -10037,7 +10037,7 @@ kochbi01,1974,12,14,USA,NY,Rockville Centre,,,,,,,Billy,Koch,William Christopher
 kochebr01,1888,1,16,USA,PA,White Haven,1965,1,13,USA,PA,White Haven,Brad,Kocher,Bradley Wilson,188,71,R,R,1912-04-24,1916-10-05,kochb101,kochebr01
 kochma01,1990,11,2,USA,IA,Cherokee,,,,,,,Matt,Koch,Matthew David,215,75,L,R,2016-09-09,2022-04-26,kochm001,kochma01
 koechdi01,1926,3,30,USA,PA,Philadelphia,2020,2,4,USA,FL,Naples,Dick,Koecher,Richard Finlay,196,77,L,L,1946-09-29,1948-10-02,koecd101,koechdi01
-koegepe01,1947,7,31,USA,NY,Mineola,,,,,,,Pete,Koegel,Peter John,230,78,R,R,1970-09-01,1972-10-02,koegp101,koegepe01
+koegepe01,1947,7,31,USA,NY,Mineola,2023,2,4,USA,NY,Kingston,Pete,Koegel,Peter John,230,78,R,R,1970-09-01,1972-10-02,koegp101,koegepe01
 koehlbe01,1877,1,26,Germany,,Schoerndorn,1961,5,21,USA,IN,South Bend,Ben,Koehler,Bernard James,175,70,R,R,1905-04-23,1906-10-07,koehb101,koehlbe01
 koehlpi01,1902,1,16,USA,PA,Gilbert,1986,12,8,USA,WA,Tacoma,Pip,Koehler,Horace Levering,165,70,R,R,1925-04-22,1925-09-12,koehp101,koehlpi01
 koehlto01,1986,6,29,USA,NY,Bronx,,,,,,,Tom,Koehler,Thomas Rolf,235,74,R,R,2012-09-05,2017-09-29,koeht001,koehlto01
