@@ -24,6 +24,18 @@ http://creativecommons.org/licenses/by-sa/3.0/
   Users who require data of a different scope, in a different format, and/or with more specific
   schedules for updates are encouraged to enquire about our various licensing options.
 
+## Using or citing this data
+
+We repeat, this is a **legacy resource** intended for backwards compatibility only.  It is suitable
+for casual or exploratory use, as a convenient dataset for students to practice their data skills,
+and so forth.
+
+It is **not suitable** for use as the basis for any kind of publication.  The legacy parts of
+this data are not maintained, most likely contain errors, and definitely do not reflect many of the latest
+revisions to the historical record.
+
+Researchers wanting a dataset that is suitable for research or publication purposes should
+contact Chadwick Baseball Bureau for enquiries.
 
 ## Organisation of the files
 
