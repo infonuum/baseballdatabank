@@ -3272,7 +3272,7 @@ chriscl01,1958,6,28,USA,KS,Wichita,,,,,,,Clay,Christiansen,Clay C.,205,77,R,R,19
 chriscu01,1899,10,24,USA,CA,San Francisco,1984,12,20,USA,CA,Menlo Park,Walter,Christensen,Walter Neils,156,66,L,L,1926-04-13,1927-08-04,chric101,chriscu01
 chrisga01,1953,5,5,USA,NY,Mineola,,,,,,,Gary,Christenson,Gary Richard,200,77,L,L,1979-09-01,1980-07-03,chrig101,chrisga01
 chrisja01,1969,9,21,USA,NE,Omaha,,,,,,,Jason,Christiansen,Jason Samuel,230,77,R,L,1995-04-26,2005-10-01,chrij002,chrisja01
-chrisjo01,1935,12,13,V.I.,St. Croix,Frederiksted,2023,10,4,USA,MD,Edgewood,Joe,Christopher,Joseph O'Neal,175,70,R,R,1959-05-26,1966-06-09,chrij101,chrisjo01
+chrisjo01,1935,12,13,V.I.,St. Croix,Frederiksted,2023,10,3,USA,MD,Edgewood,Joe,Christopher,Joseph O'Neal,175,70,R,R,1959-05-26,1966-06-09,chrij101,chrisjo01
 chrisjo02,1960,9,15,USA,CA,Downey,,,,,,,John,Christensen,John Lawrence,205,75,R,R,1984-09-13,1988-10-01,chrij001,chrisjo02
 chrisju01,1980,4,3,USA,NE,Lincoln,,,,,,,Justin,Christian,Justin Barnett,195,73,R,R,2008-06-24,2012-09-30,chrij003,chrisju01
 chrisla01,1953,11,10,USA,WA,Everett,,,,,,,Larry,Christenson,Larry Richard,215,76,R,R,1973-04-13,1983-06-03,chril101,chrisla01
@@ -3915,7 +3915,7 @@ coxau01,1997,3,28,USA,GA,Macon,,,,,,,Austin,Cox,Austin,235,76,L,L,2023-05-04,202
 coxbi01,1913,6,23,USA,IL,Ashmore,1988,2,16,USA,IL,Charleston,Bill,Cox,William Donald,185,73,R,R,1936-06-06,1940-07-31,cox-b102,coxbi01
 coxbi02,1919,8,29,USA,PA,Newport,1978,3,30,USA,PA,Harrisburg,Billy,Cox,William Richard,150,70,R,R,1941-09-20,1955-06-11,cox-b101,coxbi02
 coxbo01,1941,5,21,USA,OK,Tulsa,,,,,,,Bobby,Cox,Robert Joe,180,71,R,R,1968-04-14,1969-10-01,cox-b103,coxbo01
-coxca01,1941,7,3,USA,CA,Long Beach,,,,,,,Casey,Cox,Joseph Casey,200,77,R,R,1966-04-15,1973-04-06,cox-c101,coxca01
+coxca01,1941,7,3,USA,CA,Long Beach,2023,10,2,,,,Casey,Cox,Joseph Casey,200,77,R,R,1966-04-15,1973-04-06,cox-c101,coxca01
 coxda01,1959,9,21,United Kingdom,Northamptonshire,Northampton,,,,,,,Danny,Cox,Danny Bradford,235,76,R,R,1983-08-06,1995-09-18,cox-d001,coxda01
 coxda02,1967,11,21,USA,OK,Oklahoma City,,,,,,,Darron,Cox,James Darron,205,73,R,R,1999-04-06,1999-06-26,cox-d002,coxda02
 coxdi01,1895,9,30,USA,CA,Pasadena,1966,6,1,USA,CA,Morro Bay,Dick,Cox,Elmer Joseph,158,67,R,R,1925-04-16,1926-09-26,cox-d101,coxdi01
@@ -10385,7 +10385,7 @@ lacygu01,1897,6,12,USA,TN,Cleveland,1953,11,19,USA,TN,Cleveland,Guy,Lacy,Osceola
 lacyke01,1972,8,7,USA,TN,Chattanooga,,,,,,,Kerry,Lacy,Kerry Ardeen,195,74,R,R,1996-08-16,1997-08-21,lacyk001,lacyke01
 lacyle01,1948,4,10,USA,TX,Longview,,,,,,,Lee,Lacy,Leondaus,175,73,R,R,1972-06-30,1987-10-03,lacyl001,lacyle01
 laddhi01,1870,2,9,USA,CT,Willimantic,1948,5,7,USA,RI,Cranston,Hi,Ladd,Arthur Clifford,180,76,L,R,1898-07-12,1898-07-18,laddh101,laddhi01
-laddpe01,1956,7,17,USA,ME,Portland,,,,,,,Pete,Ladd,Peter Linwood,228,75,R,R,1979-08-17,1986-10-03,laddp001,laddpe01
+laddpe01,1956,7,17,USA,ME,Portland,2023,10,20,USA,ME,New Gloucester,Pete,Ladd,Peter Linwood,228,75,R,R,1979-08-17,1986-10-03,laddp001,laddpe01
 ladedo01,1921,2,17,USA,NE,Fairbury,2000,5,18,USA,NE,Lincoln,Doyle,Lade,Doyle Marion,183,70,R,R,1946-09-18,1950-09-29,laded101,ladedo01
 ladenty01,1988,3,7,USA,IL,Park Ridge,,,,,,,Tyler,Ladendorf,Tyler James,195,71,R,R,2015-04-08,2021-10-02,ladet001,ladenty01
 ladewst01,1863,,,USA,MO,St. Louis,1895,1,10,USA,MO,Trenton,Steve,Ladew,Stephen F.,,,,,1889-09-27,1889-09-28,lades101,ladewst01
@@ -10568,7 +10568,7 @@ latmaba01,1936,5,21,USA,CA,Los Angeles,2019,4,28,USA,TX,Richmond,Barry,Latman,Ar
 latosma01,1987,12,9,USA,VA,Alexandria,,,,,,,Mat,Latos,Mathew Adam,245,78,R,R,2009-07-19,2017-05-02,latom001,latosma01
 lattibi01,1884,5,25,USA,TX,Roxton,1919,10,30,USA,CO,Colorado Springs,Bill,Lattimore,William Hershel,165,69,L,L,1908-04-17,1908-05-28,lattb101,lattibi01
 latzja01,1996,4,8,USA,IL,Lemont,,,,,,,Jake,Latz,Jacob Eugene,185,74,R,L,2021-08-25,2023-09-29,latzj001,latzja01
-lauch01,1933,4,12,USA,MI,Romulus,1984,3,18,USA,FL,Key Colony Beach,Charlie,Lau,Charles Richard,190,72,L,R,1956-09-12,1967-09-29,lau-c101,lauch01
+lauch01,1933,4,12,USA,MI,Romulus,1984,3,18,USA,FL,Key Colony Beach,Charley,Lau,Charles Richard,190,72,L,R,1956-09-12,1967-09-29,lau-c101,lauch01
 laudebi01,1874,2,23,USA,NY,New York,1933,5,20,USA,CT,Norwalk,Billy,Lauder,William,160,70,R,R,1898-06-25,1903-09-26,laudb101,laudebi01
 laudnti01,1958,6,7,USA,IA,Mason City,,,,,,,Tim,Laudner,Timothy Jon,212,75,R,R,1981-08-28,1989-09-03,laudt001,laudnti01
 lauerch01,1865,4,5,USA,PA,Pittsburgh,1915,5,4,USA,NY,Buffalo,Chuck,Lauer,John Charles,185,68,R,R,1884-07-17,1890-04-28,lauec101,lauerch01
@@ -18300,7 +18300,7 @@ suareeu01,1991,7,18,Venezuela,Bolivar,Puerto Ordaz,,,,,,,Eugenio,Suarez,Eugenio 
 suarejo01,1998,1,3,Venezuela,Carabobo,Naguanagua,,,,,,,Jose,Suarez,Jose Rances,225,70,L,L,2019-06-02,2023-10-01,suarj001,suarejo01
 suareke01,1943,4,12,USA,FL,Tampa,2023,7,28,USA,TX,Fort Worth,Ken,Suarez,Kenneth Raymond,175,69,R,R,1966-04-14,1973-09-22,suark101,suareke01
 suarelu01,1916,8,24,Cuba,,Alto Songo,1991,6,5,Cuba,La Habana,La Habana,Luis,Suarez,Luis Abelardo,170,71,R,R,1944-05-28,1944-05-28,suarl101,suarelu01
-suarera01,1995,8,26,Venezuela,Santander,Piedecuesta,,,,,,,Ranger,Suarez,Ranger Jose,217,73,L,L,2018-07-26,2023-09-27,suarr001,suarera01
+suarera01,1995,8,26,Venezuela,Lara,Pie de Cuesta,,,,,,,Ranger,Suarez,Ranger Jose,217,73,L,L,2018-07-26,2023-09-27,suarr001,suarera01
 suarero01,1991,3,1,Venezuela,Bolivar,Bolivar,,,,,,,Robert,Suarez,Robert Alexander,210,74,R,R,2022-04-07,2023-09-29,suarr002,suarero01
 suchdi01,1944,10,15,USA,NC,Sanford,,,,,,,Dick,Such,Richard Stanley,190,76,L,R,1970-04-06,1970-07-17,suchd101,suchdi01
 suchech01,1915,8,15,USA,TX,Cranes Mills,1984,2,11,USA,TX,San Antonio,Charley,Suche,Charles Morris,190,74,R,L,1938-09-18,1938-09-18,suchc101,suchech01
@@ -19650,7 +19650,7 @@ walkest01,1996,7,30,USA,TX,Prosper,,,,,,,Steele,Walker,Steele Simons,209,71,L,L,
 walketa01,1992,8,13,USA,LA,Shreveport,,,,,,,Taijuan,Walker,Taijuan Emmanuel,253,76,B,R,2013-08-30,2023-09-30,walkt004,walketa01
 walketi01,1887,9,4,USA,TN,Telford,1959,9,21,USA,TN,Unicoi,Tillie,Walker,Clarence William,165,71,R,R,1911-06-10,1923-10-06,walkt101,walketi01
 walketo01,1881,8,1,USA,PA,Philadelphia,1944,7,10,USA,NJ,Woodbury Heights,Tom,Walker,Thomas William,170,71,R,R,1902-09-27,1905-09-30,walkt102,walketo01
-walketo02,1948,11,7,USA,FL,Tampa,,,,,,,Tom,Walker,Robert Thomas,188,73,R,R,1972-04-23,1977-07-23,walkt103,walketo02
+walketo02,1948,11,7,USA,FL,Tampa,2023,10,23,USA,PA,Pittsburgh,Tom,Walker,Robert Thomas,188,73,R,R,1972-04-23,1977-07-23,walkt103,walketo02
 walketo03,1959,7,1,USA,CA,San Diego,,,,,,,Tony,Walker,Anthony Bruce,205,74,R,R,1986-04-08,1986-10-04,walkt001,walketo03
 walketo04,1973,5,25,USA,CA,Bakersfield,,,,,,,Todd,Walker,Todd Arthur,180,72,L,R,1996-08-30,2007-05-10,walkt002,walketo04
 walkety01,1976,5,15,USA,CA,San Francisco,,,,,,,Tyler,Walker,Tyler Lanier,260,75,R,R,2002-07-02,2010-06-19,walkt003,walkety01
